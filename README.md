@@ -1,4 +1,4 @@
-# CODSOFT-TASK2
+# CODSOFT-TASK-2
 This project are a part of my “ Java Programming” virtual internship with “CodSoft”.<br/><br/>
 
 gradeCalculator:<br/> 1. Input: Takes marks obtained (out of 100) in each subject.<br/>
